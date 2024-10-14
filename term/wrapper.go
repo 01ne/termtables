@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/scylladb/termtables/term"
+	"github.com/01ne/termtables/term"
 )
 
 func main() {

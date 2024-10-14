@@ -10,7 +10,7 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	runewidth "github.com/mattn/go-runewidth"
+	runewidth "github.com/01ne/go-runewidth"
 )
 
 var (
